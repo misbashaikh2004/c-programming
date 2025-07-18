@@ -1,0 +1,10 @@
+
+------------------------ Employee Details ------------------------
+Employee ID           : 101
+Employee Name         : misba
+Employee Basic Salary : 25000
+Employee DA           : 2300.00%
+Employee HRA          : 2700.00%
+Total Salary          : 1275000.00
+Tax Rate              : 0.00%
+Tax Amount            : 0.00
