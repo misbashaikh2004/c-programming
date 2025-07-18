@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<ctype.h>
-int main()
+int main() 
 {
     char ch;
     printf("Enter Anything:");
