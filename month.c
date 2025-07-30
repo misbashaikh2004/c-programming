@@ -20,15 +20,15 @@ int main()
         break;
         case 7:printf("31 Days");
         break;
-        case 8:printf("30 Days");
+        case 8:printf("31 Days");
         break;
-        case 9:printf("31 Days");
+        case 9:printf("30 Days");
         break;
-        case 10:printf("30 Days");
+        case 10:printf("31 Days");
         break;
-        case 11:printf("31 Days");
+        case 11:printf("30 Days");
         break;
-        case 12:printf("30 Days");
+        case 12:printf("31 Days");
         break;
         default:
         printf("Invalid");
